@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Artes',
+    'Quem pintou a Monalisa?',
+    'Leonardo da Vinci'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Astronomia',
+    'Qual planeta é conhecido como o "planeta vermelho"?'
+    'Marte'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'O que é um átomo?',
+    'È a menor unidade de um elemento químico que mantém as prpriedades desse elemento.'
 )
