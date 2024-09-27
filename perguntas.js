@@ -11,11 +11,11 @@ criaCartao(
 )
 
 criaCartao(
-    'Astronomia',
-    'Qual planeta é conhecido como o "planeta azul"?'
-    'Planeta Terra'
-    
+    'Aatronomia',
+    'Qual o planeta conhecido como "planeta vermelho"?',
+    'Marte'
 )
+
 
 criaCartao(
     'Química',
