@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Astronomia',
-    'Qual planeta é conhecido como o "planeta vermelho"?'
-    'Marte'
+    'Qual planeta é conhecido como o "planeta azul"?'
+    'Planeta Terra'
     
 )
 
